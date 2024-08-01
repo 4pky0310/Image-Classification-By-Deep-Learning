@@ -3,12 +3,6 @@
 ## Project Overview
 This project aims to classify images into predefined categories using deep learning techniques. The model leverages convolutional neural networks (CNNs) for high accuracy image classification.
 
-## Data Source
-The dataset used for this project can be any labeled image dataset. Some common examples include:
-- [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
-- [MNIST](http://yann.lecun.com/exdb/mnist/)
-- [Custom Datasets](#usage)
-
 ## Analysis Tasks
 1. **Data Preprocessing and Augmentation**
    - Prepare the data for training by normalizing and augmenting images.
